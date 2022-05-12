@@ -108,8 +108,3 @@ while True:
 
 
     #handling the collisions
-
-     if ()
-
-
-

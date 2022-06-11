@@ -41,4 +41,11 @@ if ws == "yes":
     print(f'His name is {bn} ') if hsb=='brother' else print(f"Her name is {sn}")
     print("that is all,thanks & good by")
 else:
-    print("ok.so,good by take care")
+     print("ok.so,good by take care")
+
+
+
+
+
+
+# new comment to check git

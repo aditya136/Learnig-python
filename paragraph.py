@@ -42,10 +42,4 @@ if ws == "yes":
     print("that is all,thanks & good by")
 else:
      print("ok.so,good by take care")
-
-
-
-
-
-
-# new comment to check git
+     

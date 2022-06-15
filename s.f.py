@@ -16,3 +16,5 @@ print(len(txt))
 
 print("That is all.")
 
+inputfunction = input("Get it:")
+print(f"ok.")
